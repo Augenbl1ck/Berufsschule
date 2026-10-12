@@ -1,0 +1,70 @@
+PlatformIO statt Arduino IDE – NodeMCU 1.0 (ESP-12E)
+=====================================================
+
+Ordnerstruktur
+--------------
+Projekte\
+  Beispiel-Projekt\     erster Test (Blink)
+  NeuesProjekt\         eigene Sketche, je Aufgabe ein Ordner
+  scripts\              Vorlage und New-Project-Skript
+  Anleitung.txt
+
+Neues Projekt anlegen
+---------------------
+In Cursor: Terminal -> Run Task... -> New Project
+Namen des Ordners eingeben (z.B. Blink-GPIO).
+Es entsteht:
+
+  Projekte\<Name>\
+    platformio.ini
+    src\main.cpp          leeres setup()/loop()
+    include\  lib\  test\
+
+Sketch bearbeiten: Projekte\<Name>\src\main.cpp
+Schul-.ino-Dateien: Inhalt nach main.cpp kopieren und
+  #include <Arduino.h>
+oben einfügen.
+
+Voraussetzung (einmalig am PC)
+------------------------------
+- Python 3 und PlatformIO Core sind installiert.
+- ESP8266 per USB verbinden.
+- Im Geräte-Manager prüfen, ob ein virtueller COM-Port erscheint.
+  Fehlt der Treiber: Ordner "CP210x_Universal_Windows_Driver 23" unter d:\Schule\LF07
+
+Kompilieren, hochladen, seriell mitlesen
+----------------------------------------
+In Cursor: Terminal -> Run Task...
+  New Project
+  PlatformIO: Build                 (fragt nach dem Projektordner)
+  PlatformIO: Upload
+  PlatformIO: Monitor
+  PlatformIO: Upload and Monitor
+  PlatformIO: List devices
+  PlatformIO: List projects
+
+Oder im Terminal, im jeweiligen Projektordner:
+
+  pio run                  Kompilieren
+  pio run -t upload        Hochladen
+  pio device monitor       Serielle Ausgabe (115200 Baud)
+  pio device list          COM-Ports anzeigen
+
+COM-Port
+--------
+PlatformIO erkennt den Port in der Regel selbst.
+Bei mehreren Adaptern in der platformio.ini des Projekts eintragen:
+
+  upload_port = COMx
+  monitor_port = COMx
+
+Board
+-----
+platformio.ini: board = nodemcuv2
+entspricht in der Arduino IDE: NodeMCU 1.0 (ESP-12E Module)
+
+Erster Test (Schul-Schritt 7)
+-----------------------------
+1. NodeMCU per USB anschließen
+2. Task PlatformIO: Upload, Projektordner: Beispiel-Projekt
+3. Die eingebaute LED blinkt 1 s an / 3 s aus (active-low)
