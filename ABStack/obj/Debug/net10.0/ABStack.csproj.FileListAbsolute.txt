@@ -1,0 +1,14 @@
+D:\Schule\vscode_projects\ABStack\bin\Debug\net10.0\ABStack.exe
+D:\Schule\vscode_projects\ABStack\bin\Debug\net10.0\ABStack.deps.json
+D:\Schule\vscode_projects\ABStack\bin\Debug\net10.0\ABStack.runtimeconfig.json
+D:\Schule\vscode_projects\ABStack\bin\Debug\net10.0\ABStack.dll
+D:\Schule\vscode_projects\ABStack\bin\Debug\net10.0\ABStack.pdb
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.AssemblyInfoInputs.cache
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.AssemblyInfo.cs
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.csproj.CoreCompileInputs.cache
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.dll
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\refint\ABStack.dll
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.pdb
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ABStack.genruntimeconfig.cache
+D:\Schule\vscode_projects\ABStack\obj\Debug\net10.0\ref\ABStack.dll

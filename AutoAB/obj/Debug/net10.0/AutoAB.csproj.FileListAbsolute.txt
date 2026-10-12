@@ -1,0 +1,14 @@
+d:\Schule\vscode_projects\AutoAB\bin\Debug\net10.0\AutoAB.exe
+d:\Schule\vscode_projects\AutoAB\bin\Debug\net10.0\AutoAB.deps.json
+d:\Schule\vscode_projects\AutoAB\bin\Debug\net10.0\AutoAB.runtimeconfig.json
+d:\Schule\vscode_projects\AutoAB\bin\Debug\net10.0\AutoAB.dll
+d:\Schule\vscode_projects\AutoAB\bin\Debug\net10.0\AutoAB.pdb
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.GeneratedMSBuildEditorConfig.editorconfig
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.AssemblyInfoInputs.cache
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.AssemblyInfo.cs
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.csproj.CoreCompileInputs.cache
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.dll
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\refint\AutoAB.dll
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.pdb
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\AutoAB.genruntimeconfig.cache
+d:\Schule\vscode_projects\AutoAB\obj\Debug\net10.0\ref\AutoAB.dll
