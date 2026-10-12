@@ -1,0 +1,14 @@
+D:\Schule\vscode_projects\Ball\bin\Debug\net10.0\Ball.exe
+D:\Schule\vscode_projects\Ball\bin\Debug\net10.0\Ball.deps.json
+D:\Schule\vscode_projects\Ball\bin\Debug\net10.0\Ball.runtimeconfig.json
+D:\Schule\vscode_projects\Ball\bin\Debug\net10.0\Ball.dll
+D:\Schule\vscode_projects\Ball\bin\Debug\net10.0\Ball.pdb
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.AssemblyInfoInputs.cache
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.AssemblyInfo.cs
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.csproj.CoreCompileInputs.cache
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.dll
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\refint\Ball.dll
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.pdb
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\Ball.genruntimeconfig.cache
+D:\Schule\vscode_projects\Ball\obj\Debug\net10.0\ref\Ball.dll

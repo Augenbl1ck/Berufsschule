@@ -1,0 +1,14 @@
+D:\Schule\vscode_projects\Schulprojekte\bin\Debug\net10.0\Schulprojekte.exe
+D:\Schule\vscode_projects\Schulprojekte\bin\Debug\net10.0\Schulprojekte.deps.json
+D:\Schule\vscode_projects\Schulprojekte\bin\Debug\net10.0\Schulprojekte.runtimeconfig.json
+D:\Schule\vscode_projects\Schulprojekte\bin\Debug\net10.0\Schulprojekte.dll
+D:\Schule\vscode_projects\Schulprojekte\bin\Debug\net10.0\Schulprojekte.pdb
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.AssemblyInfoInputs.cache
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.AssemblyInfo.cs
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.csproj.CoreCompileInputs.cache
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.dll
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\refint\Schulprojekte.dll
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.pdb
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\Schulprojekte.genruntimeconfig.cache
+D:\Schule\vscode_projects\Schulprojekte\obj\Debug\net10.0\ref\Schulprojekte.dll

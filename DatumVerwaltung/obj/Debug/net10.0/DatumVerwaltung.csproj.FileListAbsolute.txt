@@ -1,0 +1,14 @@
+d:\Schule\vscode_projects\DatumVerwaltung\bin\Debug\net10.0\DatumVerwaltung.exe
+d:\Schule\vscode_projects\DatumVerwaltung\bin\Debug\net10.0\DatumVerwaltung.deps.json
+d:\Schule\vscode_projects\DatumVerwaltung\bin\Debug\net10.0\DatumVerwaltung.runtimeconfig.json
+d:\Schule\vscode_projects\DatumVerwaltung\bin\Debug\net10.0\DatumVerwaltung.dll
+d:\Schule\vscode_projects\DatumVerwaltung\bin\Debug\net10.0\DatumVerwaltung.pdb
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.GeneratedMSBuildEditorConfig.editorconfig
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.AssemblyInfoInputs.cache
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.AssemblyInfo.cs
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.csproj.CoreCompileInputs.cache
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.dll
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\refint\DatumVerwaltung.dll
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.pdb
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\DatumVerwaltung.genruntimeconfig.cache
+d:\Schule\vscode_projects\DatumVerwaltung\obj\Debug\net10.0\ref\DatumVerwaltung.dll
